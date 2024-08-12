@@ -1,0 +1,40 @@
+/* Background and Text Colors */
+.boho-bg {
+    background-color: #f5f0e1;
+}
+
+.boho-text {
+    color: #8b5e34;
+}
+
+/* Button Styles */
+.boho-btn {
+    background-color: #d8a47f;
+    color: #ffffff;
+    border: black;
+}
+
+.boho-btn:hover {
+    background-color: #bc7e58;
+    color: #f5f0e1;
+}
+
+/* Card Styles */
+.boho-card {
+    background-color: #e0d5c1;
+    color: #5e4630;
+    border-radius: 10px;
+}
+
+/* Form Control Styles */
+.form-control {
+    background-color: #f5f0e1;
+    color: #5e4630;
+    border: 1px solid #c9a47f;
+}
+
+.form-control:focus {
+    background-color: #e0d5c1;
+    color: #5e4630;
+    border-color: #bc7e58;
+}
